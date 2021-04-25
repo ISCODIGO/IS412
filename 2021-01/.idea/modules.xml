@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SistemasOperativosI.iml" filepath="$PROJECT_DIR$/SistemasOperativosI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concurrencia.iml" filepath="$PROJECT_DIR$/concurrencia.iml" />
     </modules>
   </component>
 </project>

@@ -79,7 +79,7 @@ public class Ejemplo {
             btnConsumer = new ButtonStatus("Consumidor");
             panel1.add(btnConsumer);
             frm.setVisible(true);
-            frm.setSize(300, 300);
+            frm.setSize(500, 300);
             frm.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         }
 
